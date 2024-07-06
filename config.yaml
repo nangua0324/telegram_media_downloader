@@ -24,4 +24,7 @@ media_types:
 - video_note
 # in linux please use /
 # save_path: E:\github\telegram_media_downloader
+disable_syslog: []
+save_path: /app/downloads
+language: ZH
 max_download_task: 30

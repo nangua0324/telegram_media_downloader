@@ -1,7 +1,7 @@
 api_hash: 2593617fafbd5ca3ad3ccb7d5004bd8d
 api_id: 27415009
 bot_token: 7272640684:AAErc5g2ygJpkWGEb01_wO3goOhi-O4ziNw
-web_host: 192.168.196.90
+web_host: 0.0.0.0
 #chat:
 #- chat_id: 7272640684:AAErc5g2ygJpkWGEb01
 #  last_read_message_id: 0
